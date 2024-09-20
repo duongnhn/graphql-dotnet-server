@@ -1,3 +1,4 @@
+using GraphQL.Server.Sample.Catalog.Schema.Model;
 using GraphQL.Server.Sample.Catalog.Services;
 
 namespace GraphQL.Server.Sample.Catalog.Schema;

@@ -1,9 +1,8 @@
-namespace GraphQL.Server.Sample.Catalog.Schema;
+namespace GraphQL.Server.Sample.Catalog.Schema.Model;
 
 public class Item
 {
-    [Id]
-    public int Id { get; set; }
+    public string Id { get; set; } = null!;
 
     public string Name { get; set; } = null!;
 

@@ -1,4 +1,4 @@
-namespace GraphQL.Server.Sample.Catalog.Schema;
+namespace GraphQL.Server.Sample.Catalog.Schema.Model;
 
 public class ItemInput
 {
